@@ -1,4 +1,4 @@
-//  Puis ajouter un script (dans un autre fichier) permettant de trouver le mot le plus long d'une phrase. Le tout devant être affiché dans
+//  Puis ajouter un script (dans un autre fichier) permettant de trouver le mot le plus long d'une phrase.
 
 function findString(array) {
   let longestString = "";
